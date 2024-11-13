@@ -44,10 +44,6 @@ and React.js application boilerplate with Typescript, Express.js, GraphQL, Apoll
 - [Donations](#donations)
 - [License](#license)
 
-## Installation
-
-Clone this repo to your local machine using `https://github.com/garganurag893/Next.js_GraphQL_Express_Apollo_Boilerplate`
-
 ### Step 1: Set up the Development Environment
 
 You need to set up your development environment before you can do anything.
@@ -183,52 +179,3 @@ Bluebird is a fully featured promise library with focus on innovative features a
 ### Cors
 
 Cross-origin resource sharing is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served
-
-## Contributing
-
-> To get started...
-
-### Step 1
-
-- **Option 1**
-
-  - 🍴 Fork this repo!
-
-- **Option 2**
-  - 👯 Clone this repo to your local machine using `https://github.com/garganurag893/Next.js_GraphQL_Express_Apollo_Boilerplate`
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/garganurag893/Next.js_GraphQL_Express_Apollo_Boilerplate" target="_blank">`https://github.com/garganurag893/Next.js_GraphQL_Express_Apollo_Boilerplate`</a>.
-
-## Support
-
-Reach out to me at one of the following places!
-
-- Twitter at <a href="https://twitter.com/AnuragG94634191" target="_blank">https://twitter.com/AnuragG94634191</a>
-- Medium at <a href="https://medium.com/@garganurag893" target="_blank">https://medium.com/@garganurag893</a>
-- Instagram at <a href="https://www.instagram.com/the_only_anurag/" target="_blank">https://www.instagram.com/the_only_anurag/</a>
-- Email at garganurag893@gmail.com
-
-## Donations
-
-If this boilerplate help save your valuable time and you feel to help me donate now to help me create more amazing stuff.
-
-[![Support via Paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png)](https://paypal.me/garganurag893?locale.x=en_GB)
-
-<p>
-<img src="https://www.komando.com/wp-content/uploads/2019/05/google-pay-badge.png" alt="Support via GooglePay" height="50"/>
-</p>
-<h5>+919468026011
-</h5>
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © <a href="https://twitter.com/AnuragG94634191" target="_blank">Anurag Garg</a>.
